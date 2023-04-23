@@ -15,4 +15,10 @@ npm install
 
 # Build the package
 npm run build
+
+# [Optional] If you didn't logged in yet, login to NPM
+npm login
+
+# Publish the package
+npm publish
 ```
